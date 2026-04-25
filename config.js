@@ -16,7 +16,7 @@ module.exports = {
     PAGES: {
         grapplegame: {
             title:   'Untitled Grapple Game',
-            mainUrl: 'no_permanent_url_yet',
+            mainUrl: 'https://phrogserver.tail897747.ts.net/',
             port:    3000,
         },
     }
