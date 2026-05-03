@@ -94,7 +94,7 @@ export default function Dashboard() {
             disabled={generating}
             className="bg-slate-900 hover:bg-black disabled:opacity-60 text-white px-8 py-3 rounded-lg font-semibold transition-all shadow-md whitespace-nowrap"
           >
-            {generating ? 'Generating…' : 'Depreciated'}
+            {generating ? 'Generating…' : 'Generate Link'}
           </button>
         </div>
 
